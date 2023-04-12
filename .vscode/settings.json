@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "172.16.10.160\\sqldeveloper",
+            "port": 80,
+            "driver": "MSSQL",
+            "name": "SQL ServerLocal",
+            "database": "mms_dev",
+            "username": "dev_user",
+            "password": "dev.473"
+        }
+    ]
+}
